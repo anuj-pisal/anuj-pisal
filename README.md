@@ -17,7 +17,7 @@
 - 🔭 I'm currently working on **[Smart Village Android App](https://github.com/anuj-pisal/Smart_Village_App)**
 - 🌱 I'm currently learning **Spring Boot and Spring AI**
 - 📫 How to reach me: **anujpisal69@gmail.com**
-- 📄 Know more about my experience **[here](https://drive.google.com/file/d/1OdeYYXR-zg_1xy8ddTo8Ro3T2Uz342R5/view?usp=sharing)**
+- 📄 Know more about me **[here](https://drive.google.com/file/d/1OdeYYXR-zg_1xy8ddTo8Ro3T2Uz342R5/view?usp=sharing)**
 
 ---
 
