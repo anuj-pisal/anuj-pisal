@@ -93,8 +93,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anuj-pisal&show_icons=true&theme=tokyonight&count_private=true" alt="anuj-pisal stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-pisal&layout=compact&theme=tokyonight" alt="anuj-pisal top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anuj-pisal&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="anuj-pisal stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-pisal&layout=compact&theme=tokyonight&cache_seconds=86400" alt="anuj-pisal top langs" />
 </p>
 
 <p align="center">
