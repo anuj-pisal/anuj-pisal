@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Anuj Sanjay Pisal 👋</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate JAVA Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Android+App+Developer;Learning+Spring+Boot+%26+Spring+AI;Always+Building+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=JAVA+Full+Stack+Developer;Android+App+Developer;Learning+Spring+Boot+%26+Spring+AI;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
