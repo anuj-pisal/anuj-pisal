@@ -87,5 +87,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuj-pisal&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="anuj-pisal trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=anuj-pisal&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="anuj-pisal trophies" />
 </p>
