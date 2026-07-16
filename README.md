@@ -34,31 +34,37 @@
 ### 🛠️ Languages & Tools
 
 **Languages**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,html,css&theme=light" />
 </p>
 
 **Frontend & Frameworks**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,androidstudio&theme=light" />
 </p>
 
 **Backend**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring&theme=light" />
 </p>
 
 **Databases**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=light" />
 </p>
 
 **DevOps & Cloud**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,linux&theme=light" />
 </p>
 
 **Tools**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,figma,postman&theme=light" />
 </p>
@@ -74,4 +80,12 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=anuj-pisal&theme=tokyonight" alt="anuj-pisal streak stats" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuj-pisal&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="anuj-pisal trophies" />
 </p>
