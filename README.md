@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Anuj Sanjay Pisal 👋</h1>
-<h3 align="center">JAVA Full Stack Developer | Problem Solver</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1A1B27&height=200&section=header&text=Anuj%20Sanjay%20Pisal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=JAVA+Full+Stack+Developer;Android+App+Developer;Learning+Spring+Boot+%26+Spring+AI;Always+Building+Something+New" alt="Typing SVG" />
@@ -84,8 +85,24 @@
 
 ---
 
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj-pisal&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="anuj-pisal activity graph" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github.com/anuj-pisal/anuj-pisal/blob/main/trophy.svg" alt="anuj-pisal trophies" />
+  <img src="./trophy.svg" alt="anuj-pisal trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuj-pisal/anuj-pisal/output/github-contribution-grid-snake-dark.svg" alt="anuj-pisal snake animation" />
 </p>
