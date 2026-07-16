@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'   # runs once a day at midnight UTC
   workflow_dispatch:        # lets you trigger it manually from the Actions tab
 
+permissions:
+  contents: write          # required so the workflow can push the commit
+
 jobs:
   generate-trophy:
     runs-on: ubuntu-latest
@@ -16,11 +19,11 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: anuj-pisal
-          output_path: trophy.svg
+          file: trophy.svg
           theme: tokyonight
-          column: "6"
-          margin-w: "15"
-          margin-h: "15"
+          max-cols: "6"
+          margin-width: "15"
+          margin-height: "15"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
