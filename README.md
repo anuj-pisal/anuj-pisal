@@ -101,8 +101,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/anuj-pisal/anuj-pisal/output/github-contribution-grid-snake-dark.svg" alt="anuj-pisal snake animation" />
 </p>
