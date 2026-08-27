@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on **[Official Website of WCE IT-Department](https://github.com/jagtapvarad17-stack/WCE-IT-)**
 - 🌱 I'm currently learning **Spring Boot and Spring AI**
 - 📫 How to reach me: **anujpisal69@gmail.com**
-- 📄 Know more about me **[here](https://drive.google.com/file/d/1OdeYYXR-zg_1xy8ddTo8Ro3T2Uz342R5/view?usp=sharing)**
+- 📄 Know more about me **[here](https://drive.google.com/file/d/1f3RkLE6p-aarDSVA43rIWqXYJ8wqTaQ7/view?usp=drive_link)**
 
 ---
 
