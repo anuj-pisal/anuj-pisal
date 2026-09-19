@@ -88,7 +88,7 @@
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-m8j6vs67k-anuj-pisals-projects.vercel.app/graph?username=anuj-pisal&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="anuj-pisal activity graph" />
+  <img src="https://github-readme-activity-graph-hazel-one.vercel.app/graph?username=anuj-pisal&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="anuj-pisal activity graph" />
 </p>
 
 ---
